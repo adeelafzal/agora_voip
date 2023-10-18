@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "555847514466",
+    "project_id": "testing-d2b63",
+    "storage_bucket": "testing-d2b63.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555847514466:android:89d37f7da757f9b111943b",
+        "android_client_info": {
+          "package_name": "com.adeel.agora_voip"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "555847514466-7beni6hrcqvfv3dfmqqmb9vgrrn24jla.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC11SJIFk4N0MZrJgy_4eqCjpM4pCNs_zs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "555847514466-7beni6hrcqvfv3dfmqqmb9vgrrn24jla.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
