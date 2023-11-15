@@ -4,6 +4,6 @@ class Constants {
   static const String fcmBaseUrl = "https://fcm.googleapis.com/fcm/send";
   static const String appId = "8e6af4d3b5d84d559e7bc018b6480b12";
   static const String token =
-      "007eJxTYBC9eHuqma9CF9MLg/uts5izD3zodp1ctLk4vHvv+wV3/JcqMFikmiWmmaQYJ5mmWJikmJpapponJRsYWiSZmVgYJBkavd6hn9oQyMhgJcXNwsgAgSA+N0NZfmZBckZiXl5qDgMDAHk2Ip0=";
+      "007eJxTYPh6s6zM/H9U7cO5528wCxpfPBf4oE9+4RNek23vfJUjNP4oMFikmiWmmaQYJ5mmWJikmJpapponJRsYWiSZmVgYJBkaGfeHpDYEMjLo1HsyMTJAIIjPzVCWn1mQnJGYl5eaw8AAALD5Isg=";
   static const String channel = "voipchannel";
 }
